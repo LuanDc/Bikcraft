@@ -1,0 +1,8 @@
+-Estilo
+    Geometrico nas formas, orgânico na tipografia
+-Tipografia
+    Georgia e Ariel/Helvetica
+-Cores
+    #ffc640 - Amarelo
+    #000000 - Preto
+     

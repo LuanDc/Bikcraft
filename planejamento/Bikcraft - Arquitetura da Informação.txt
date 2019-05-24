@@ -1,0 +1,30 @@
+Arquitetura da Informação
+
+Home
+ .Informação falando que é uma empresa de bicicleta
+ .Previa dos principais produtos
+ .Previa das principais bicicletas já construídas 
+ .Um pouco sobre a história (com um botão levando para a página sobre)
+ .falando sobre orçamento(Botão chamando o cliente para entrar em contato)
+
+Sobre
+ .Missão, Visão e Valores
+ .História da empresa [falar sobre a montagem]
+
+Produto
+ .Passeio
+ .Esporte
+ .Retro
+ .Orçamento [Pedido]
+
+Cliente
+ .Mostrar portfólio, projetos anteriores
+
+Contato
+ .Orçamento [Pedido]
+  .Endereço, Telefone e Email
+ .Trabalhe conosco
+  .Endereço, Telefone e Email
+
+Rodapé
+ .Meios de contato
